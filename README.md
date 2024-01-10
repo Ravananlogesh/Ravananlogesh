@@ -1,16 +1,38 @@
-### Hi there 👋
+# Welcome to Logeshkumar's GitHub Profile 👋
 
-<!--
-**Ravananlogesh/Ravananlogesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello, I'm Logeshkumar, an IT professional with a Master's degree in Information Technology (MScIT). I specialize in web development and database management, with expertise in HTML, CSS, Java, JSP, Servlet, JDBC, and Hibernate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Languages:** Java
+- **Web Technologies:** HTML, CSS, JSP, Servlet
+- **Database:** SQL, MySQL, JDBC, Hibernate
+
+## Project
+
+### MovieHub
+
+- **Description:** MovieHub is a web application that [provide a brief description of the project].
+- **Technologies Used:**
+  - Java
+  - HTML
+  - CSS
+  - JSP
+  - Servlet
+  - JDBC
+  - Hibernate
+  - SQL, MySQL
+
+Feel free to explore the repository for the MovieHub project and check out the code.
+
+## Connect with Me
+
+- LinkedIn: [Logeshkumar's LinkedIn Profile](https://www.linkedin.com/in/logesh-kumar-36a0701b2/)
+
+## How to Reach Me
+
+Feel free to reach out for questions, collaboration ideas, or just to connect. You can email me at [logeshkumarmscit@gmail.com](mailto:logeshkumarmscit@gmail.com).
+
+Thanks for visiting!
