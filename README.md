@@ -16,6 +16,8 @@ Hello, I'm Logeshkumar, an IT professional with a Master's degree in Information
 
 - **Description:** MovieHub is a web application that [provide a brief description of the project].
 - **Technologies Used:**
+  - Golang
+  - Vue.js 
   - Java
   - HTML
   - CSS
