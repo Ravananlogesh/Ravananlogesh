@@ -6,7 +6,7 @@ Hello, I'm Logeshkumar, an IT professional with a Master's degree in Information
 
 ## Skills
 
-- **Languages:** Java
+- **Languages:** Golang, JAVA
 - **Web Technologies:** HTML, CSS, JSP, Servlet
 - **Database:** SQL, MySQL, JDBC, Hibernate
 
