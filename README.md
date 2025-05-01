@@ -1,40 +1,66 @@
-# Welcome to Logeshkumar's GitHub Profile 👋
+<h1 align="center">Hi 👋, I'm Logeshkumar</h1>
+<h3 align="center">IT Professional | Developer | Database Enthusiast</h3>
 
-## About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/logesh-kumar-36a0701b2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:logeshkumarmscit@gmail.com">
+    <img src="https://img.shields.io/badge/Email-logeshkumarmscit@gmail.com-red?logo=gmail" alt="Email">
+  </a>
+</p>
 
-Hello, I'm Logeshkumar, an IT professional with a Master's degree in Information Technology (MScIT). I specialize in web development and database management, with expertise in HTML, CSS, Java, JSP, Servlet, JDBC, and Hibernate.
+---
 
-## Skills
+## 💫 About Me
 
-- **Languages:** Golang, JAVA
-- **Web Technologies:** HTML, CSS, JSP, Servlet
-- **Database:** SQL, MySQL, JDBC, Hibernate
+🎓 Master's Degree in Information Technology (MScIT)  
+💻 Passionate about building web applications and managing databases  
+🚀 Always exploring new technologies and improving my skills
 
-## Project
+---
 
-### MovieHub
+## 🚀 Technical Skills
 
-- **Description:** MovieHub is a web application that [provide a brief description of the project].
-- **Technologies Used:**
-  - Golang
-  - Vue.js 
-  - Java
-  - HTML
-  - CSS
-  - JSP
-  - Servlet
-  - JDBC
-  - Hibernate
-  - SQL, MySQL
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=go,java" width="150" />
 
-Feel free to explore the repository for the MovieHub project and check out the code.
+### 🌐 Web Technologies
+<img src="https://skillicons.dev/icons?i=html,css,vuejs,js,ts" width="200" />  
+<img src="https://img.shields.io/badge/JSP-007396?logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Servlet-007396?logo=java&logoColor=white" />
 
-## Connect with Me
+### ⚙️ Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=spring" width="50"/>  
+<img src="https://skillicons.dev/icons?i=docker" width="50" />
+<img src="https://img.shields.io/badge/Gin-00ADD8?logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Mux-00ADD8?logo=go&logoColor=white" />
 
-- LinkedIn: [Logeshkumar's LinkedIn Profile](https://www.linkedin.com/in/logesh-kumar-36a0701b2/)
+### 🗄️ Database & ORM
+<img src="https://skillicons.dev/icons?i=mysql,postgres" width="200" />  
 
-## How to Reach Me
+---
 
-Feel free to reach out for questions, collaboration ideas, or just to connect. You can email me at [logeshkumarmscit@gmail.com](mailto:logeshkumarmscit@gmail.com).
+## 📫 Connect with Me
 
-Thanks for visiting!
+- 🌐 [LinkedIn](https://www.linkedin.com/in/logesh-kumar-36a0701b2/)
+- 📧 [Email](mailto:logeshkumarmscit@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RavananLogesh&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RavananLogesh&theme=tokyonight" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavananLogesh&layout=compact&theme=tokyonight" width="400" />
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! 🌟 Feel free to reach out — let's collaborate or chat!
+</p>
